@@ -17,7 +17,7 @@
   </p>
 </div>
 <br/>
----
+
 ### ⚡ About Me
 ```yaml
 engineer: Ashutosh Singh
@@ -32,12 +32,12 @@ contact: ashutoshsingh7259@gmail.com
 - 🎨 **Design Style:** Dark-mode first, minimal typography, subtle glow, and responsive layouts.
 - 💬 **Ask me about:** JavaScript / React ecosystems, backend APIs, and web design.
 - ⚡ **Fun fact:** I love turning caffeine into production-ready web experiences.
----
+
 ### 🛠️ Languages & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,postgres,mongodb,mysql,git,github,vscode,postman,linux&perline=9&theme=dark" alt="Tech Stack" />
 </div>
----
+
 ### 🚀 Featured Projects
 | Project | Description | Stack | Demo / Link |
 | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ contact: ashutoshsingh7259@gmail.com
 | **[Lunar Knight Project](https://github.com/Ashutosh-Singh08/lunar-knight-project)** | Interactive frontend and web application | `JavaScript` `HTML5` `CSS3` | [Explore Repo ↗](https://github.com/Ashutosh-Singh08/lunar-knight-project) |
 | **[Blogpost Backend](https://github.com/Ashutosh-Singh08/blogpost_backend)** | RESTful API, authentication & backend service | `JavaScript` `Node.js` `Express` | [Explore Repo ↗](https://github.com/Ashutosh-Singh08/blogpost_backend) |
 | **[Registration Landing Page](https://github.com/Ashutosh-Singh08/registration-landong-page)** | High-converting, responsive signup & registration page | `JavaScript` `CSS3` `HTML5` | [Explore Repo ↗](https://github.com/Ashutosh-Singh08/registration-landong-page) |
----
+
 ### 📊 GitHub Activity & Telemetry
 <div align="center">
   <table border="0">
@@ -64,7 +64,7 @@ contact: ashutoshsingh7259@gmail.com
     </tr>
   </table>
 </div>
----
+
 ### 📈 Coding Rhythm & Productivity
 ```text
 🌅 Morning (06:00 - 12:00) : [████████░░░░░░░░░░░░] 34%
@@ -72,7 +72,7 @@ contact: ashutoshsingh7259@gmail.com
 🌃 Evening (18:00 - 00:00) : [█████░░░░░░░░░░░░░░░] 19%
 🌙 Night   (00:00 - 06:00) : [█░░░░░░░░░░░░░░░░░░░] 05%
 ```
----
+
 <div align="center">
   <sub>⭐ Feel free to check out my repositories and drop a star if you find them helpful!</sub>
 </div>
